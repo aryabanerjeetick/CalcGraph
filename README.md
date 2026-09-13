@@ -32,6 +32,29 @@ CalcGraph is a modern, interactive web application that combines a scientific ca
 * Display X and Y coordinates while moving over the graph.
 * Automatic equation legend with distinct colors.
 
+## 🌐 Live Demo
+
+Try CalcGraph online:
+
+[Open CalcGraph](https://aryabanerjeetick.github.io/CalcGraph/)
+
+## 🔎 SEO Keywords
+
+CalcGraph is a free online scientific calculator and interactive equation grapher for students, educators, researchers, and mathematics enthusiasts.
+
+It supports:
+
+- Scientific calculations
+- Mathematical functions
+- Equation plotting
+- Graphing calculator features
+- Custom variables
+- Function visualization
+- Interactive mathematical graphs
+- Online mathematics learning
+- JavaScript mathematics tools
+- Math.js calculations
+
 ## Technologies Used
 
 * HTML5
@@ -44,9 +67,7 @@ CalcGraph is a modern, interactive web application that combines a scientific ca
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/calcgraph.git
-```
+git clone https://github.com/aryabanerjeetick/CalcGraph.git
 
 ### 2. Open the Project
 
@@ -81,14 +102,6 @@ No backend server or installation is required for the basic application.
 5. Click **Plot Graph** to visualize the equation.
 6. Use the mouse wheel to zoom and drag to move around the graph.
 
-## Project Structure
-
-```text
-calcgraph/
-│
-├── index.html
-└── README.md
-```
 
 ## Mathematical Engine
 
@@ -103,12 +116,6 @@ CalcGraph is designed for modern browsers that support HTML5 Canvas and JavaScri
 * Mozilla Firefox
 * Opera
 
-## Current Limitations
-
-* Calculation history and memory are stored only during the current page session.
-* The grapher currently plots equations in the form `y = f(x)`.
-* Internet access is required to load the Math.js library from its CDN.
-
 ## Future Improvements
 
 * Dark and light themes.
@@ -121,11 +128,11 @@ CalcGraph is designed for modern browsers that support HTML5 Canvas and JavaScri
 
 ## License
 
-This project is available for educational and personal use. Add your preferred license before distributing the project publicly.
+This project is available for educational and personal use. MIT Licensed.
 
 ## Author
 
-Developed by **Arya**.
+Developed by **Arya Bandyopadhyay**.
 
 If you find CalcGraph useful, consider giving the repository a ⭐ on GitHub.
 
