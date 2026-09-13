@@ -128,3 +128,11 @@ This project is available for educational and personal use. Add your preferred l
 Developed by **Arya**.
 
 If you find CalcGraph useful, consider giving the repository a ⭐ on GitHub.
+
+## Support CalcGraph
+
+If you find CalcGraph useful and would like to support its development, you can contribute through UPI.
+
+**UPI ID:** `9123621314@kotakbank`
+
+Thank you for supporting the project!
